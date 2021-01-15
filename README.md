@@ -11,5 +11,5 @@ Photo 2:
 To run the program:
 1. Clone the kaiROS repo.
 2. Run in the terminal:
-`make`
-`make build`
+   `make`
+   `make build`
