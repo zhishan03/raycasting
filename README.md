@@ -1,6 +1,6 @@
 # raycasting
 
-A small raycasting engine that simulates 3D environment from 2D map on the top-left corner with player movement
+A small raycasting engine that simulates 3D environment from 2D map on the top-left corner with player movement. Use the arrow keys for player movement.
 
 Photo 1: 
 
