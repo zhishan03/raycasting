@@ -13,4 +13,5 @@ To run the program:
 2. Run in the terminal:
 
    `make`
+   
    `make build`
