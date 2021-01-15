@@ -18,6 +18,6 @@ To run the program:
     
     `cd raycasting-c`
 
-   `make`
-   
    `make build`
+   
+   `make run`
