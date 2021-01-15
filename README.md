@@ -1,6 +1,6 @@
 # raycasting
 
-A small raycaster engine that simulates 3D environment from 2D map on the top-left corner with player movement. Use the arrow keys for player movement.
+A small raycaster engine that simulates 3D environment from 2D map on the top-left corner with player movement.
 Check out my website to see the raycaster in action!
 
 Photo 1: 
@@ -22,3 +22,4 @@ To run the program:
    `make build`
    
    `make run`
+3. Use the arrow keys for player movement. 
