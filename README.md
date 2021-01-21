@@ -12,7 +12,7 @@ Photo 2:
 <img src="https://github.com/zhishan03/raycasting/blob/main/pic2.png" alt="alt text" width="500" height="350">
 
 To run the program:
-1. Clone the kaiROS repo.
+1. Clone the raycasting repo.
 2. Run in the terminal:
 
     `cd raycasting`
